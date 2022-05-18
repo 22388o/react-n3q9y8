@@ -4,8 +4,8 @@ import "./style.css";
 export default function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <h1>P2P BTC</h1>
+      <p>Marketplace Global on Lightning Network powered by Layer2Labs</p>
     </div>
   );
 }
