@@ -1,6 +1,7 @@
 {
-  "name": "react app",
-  "version": "0.0.0",
+  "homepage":
+  "name": "p2pbtc"
+  "version":"1.0.0-alpha"
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
